@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9166BBF8-13CB-445D-A82B-8469F07EDECB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GrapQL_Sample/Models/StudentModel.cs">
+    <Files>
+      <File FileName="GrapQL_Sample/Models/Student.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GrapQL_Sample">
+            <Node name="GrapQL_Sample">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GrapQL__Sample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

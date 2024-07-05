@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9166BBF8-13CB-445D-A82B-8469F07EDECB}|GrapQL_Sample">
+  <MonoDevelop.Ide.ItemProperties.GraphQL__Sample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphQL_Sample/Repository/RepositoryImpl/InfluencerRepositoryImpl.cs">
+    <Files>
+      <File FileName="GraphQL_Sample/Repository/IRepository/IInfluencerRepository.cs" Line="1" Column="1" />
+      <File FileName="GraphQL_Sample/Repository/RepositoryImpl/InfluencerRepositoryImpl.cs" Line="11" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraphQL_Sample" expanded="True">
+            <Node name="GraphQL_Sample">
+              <Node name="GraphQL" expanded="True">
+                <Node name="GraphQLMutation" expanded="True" />
+                <Node name="GraphQLQuery" expanded="True" />
+                <Node name="GraphQLType" expanded="True" />
+              </Node>
+              <Node name="PresentationLayer" expanded="True">
+                <Node name="ImplementService" expanded="True" />
+                <Node name="InterfaceService" expanded="True" />
+              </Node>
+              <Node name="Repository" expanded="True">
+                <Node name="IRepository" expanded="True" />
+                <Node name="RepositoryImpl" expanded="True">
+                  <Node name="InfluencerRepositoryImpl.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
